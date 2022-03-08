@@ -1,6 +1,6 @@
 # Tutor
 
-A new Flutter project.
+A Flutter Template contain Login Page, Register Page and Main Page. 
 
 ## Getting Started
 
